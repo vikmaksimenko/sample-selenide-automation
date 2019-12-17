@@ -1,4 +1,4 @@
-Sample Selenide UI Automation Test Framework 
+Sample Selenide UI Automation Test Framework [![Build Status](https://travis-ci.com/vikmaksimenko/sample-selenide-automation.svg?branch=master)](https://travis-ci.com/vikmaksimenko/sample-selenide-automation)
 =====================================================
 
 This is a project for running Cucumber Selenide automated UI tests on TestContainers 
@@ -30,4 +30,4 @@ Sample Allure report can be found on http://sample-selenide-automation.surge.sh
 
 ### Travis CI Integration
 
-This project is integrated with Travis CI, see 
+This project is integrated with Travis CI, see https://travis-ci.com/vikmaksimenko/sample-selenide-automation 
